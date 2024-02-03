@@ -1,0 +1,8 @@
+Neighborhood: 0 1
+
+Dead 0
+- n = 3 Alive
+
+Alive ffffffff
+- n < 2 Dead
+- n > 3 Dead

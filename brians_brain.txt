@@ -1,0 +1,10 @@
+Neighborhood: 0 1
+
+Dead 0
+- n = 2 Alive
+
+Alive ffffffff
+- n ] 0 Dying
+
+Dying ff0000ff
+- n ] 0 Dead
